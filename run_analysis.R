@@ -1,5 +1,5 @@
 wd1<-getwd()
-setwd("C://Documents and Settings//Andrey Romanov//Мои документы//R")
+setwd("C://Documents and Settings//Andrey Romanov//R")
 wd2<-getwd()
 setwd(".//UCI HAR Dataset")
 col<-read.table("features.txt")
